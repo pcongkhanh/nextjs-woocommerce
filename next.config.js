@@ -4,8 +4,8 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: 'https',
-        hostname: 'swewoocommerce.dfweb.no',
+        protocol: 'http',
+        hostname: 'harold.local',
         pathname: '**',
       },
       {
